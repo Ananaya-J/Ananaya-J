@@ -1,143 +1,83 @@
-# Hi there, I'm Ananaya Jain! 👋
+# Ananaya Jain
 
-## 🧬 Bioinformatics Researcher | 🤖 AI-ML Engineer | 💊 Drug Discovery Specialist
+**Computational Biologist | Molecular Storyteller | Digital Biology Architect**
 
-Welcome to my GitHub! I'm a passionate bioinformatics researcher with expertise in computational biology, machine learning, and drug discovery. Currently pursuing Industry PG in Bioinformatics, Genomics & Data Science at Atria University, I specialize in bridging the gap between cutting-edge AI technologies and biological discovery.
-
-### 🔬 What I Do
-
-- **Computational Drug Discovery**: Designing and validating novel therapeutic compounds using molecular docking, MD simulations, and virtual screening
-- **AI-Powered Biological Analysis**: Developing machine learning models for protein-ligand binding prediction and biological pathway analysis
-- **Genomics & Variant Analysis**: Processing large-scale genomic datasets for disease research and precision medicine
-- **Knowledge Graph Engineering**: Building comprehensive biological knowledge bases for AI-driven research
-
-### 🚀 Current Focus
-
-- 🧠 Working on knowledge graphs for plant species multi-omics integration
-- 🔬 Developing machine learning models for protein-ligand binding affinities
-- 📊 Creating datasets for ML training using steered molecular dynamics simulations
-- 🦠 Engineering computational pipelines for bacterial genome modifications
-
-## 🛠️ Tech Stack
-
-### Bioinformatics & Computational Biology
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Biopython](https://img.shields.io/badge/-Biopython-FFD700?style=flat-square)
-![GROMACS](https://img.shields.io/badge/-GROMACS-FF6B35?style=flat-square)
-![Amber](https://img.shields.io/badge/-Amber-8B4513?style=flat-square)
-![Schrödinger](https://img.shields.io/badge/-Schrödinger%20Suite-4169E1?style=flat-square)
-
-### Machine Learning & Data Science
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![BioBERT](https://img.shields.io/badge/-BioBERT-FF4B4B?style=flat-square)
-
-### Visualization & Analysis
-![PyMOL](https://img.shields.io/badge/-PyMOL-FF6347?style=flat-square)
-![Chimera](https://img.shields.io/badge/-UCSF%20Chimera-4682B4?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### Databases & Tools
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 🏆 Featured Projects
-
-### 🎯 [TB Drug Response Predictor](https://github.com/Ananaya-J/TB-Drug-Response-Predictor)
-**Pharmacogenomics Application for Personalized Medicine**
-- Developed Streamlit app analyzing NAT2 gene polymorphisms for isoniazid dosing
-- Integrated population frequency data (n=120) with clinical guidelines
-- Improved treatment safety for slow acetylators (74.2% prevalence)
-
-**Tech Stack**: Python, Streamlit, Pandas, NumPy, Pharmacogenomics
-
-### 🧬 [ARHGAP5 Mutations in Parkinson's Disease](https://github.com/Ananaya-J/parkinsons-mutation-analysis)
-**Novel Mutation Discovery & Molecular Dynamics Analysis**
-- Analyzed 3,051 PPMI samples identifying 2 novel ARHGAP5 stopgain mutations
-- Performed 50,000-step MD simulations revealing structural instability
-- Quantified 85% increased aggregation risk using TANGO scores
-
-**Tech Stack**: GROMACS, ANNOVAR, Python, WES Analysis, Molecular Dynamics
-
-### 🦠 [Neutral Site Finder for Bacterial Genome Engineering](https://github.com/Ananaya-J/Neutral_site_Finder)
-**Synthetic Biology Tool for Safe Transgene Insertion**
-- Developed ML pipeline identifying >200bp neutral sites in bacterial genomes
-- Reduced growth disruption risks by 40% compared to random insertion
-- Achieved 95% accuracy in functional region detection
-
-**Tech Stack**: Python, Scikit-learn, Biopython, Prokka, SQLite
-
-### 🫁 [Xenium Lung Spatial Transcriptomics Analysis](https://github.com/Ananaya-J/Lung-Spatial-Transcriptomics-Analysis)
-**Advanced Spatial Genomics Pipeline**
-- Comprehensive analysis of 10x Genomics Xenium spatial transcriptomics data
-- Characterized neighborhood interactions and spatially variable genes
-- Built containerized environment for reproducible analysis
-
-**Tech Stack**: Python, Scanpy, Squidpy, Docker, Spatial Transcriptomics
-
-### 🏥 [Disease Named Entity Recognition with BioBERT](https://github.com/Ananaya-J/Disease-Named-Entity-Recognition-with-BioBERT)
-**Biomedical NLP for Clinical Text Mining**
-- Fine-tuned BioBERT on 10,000+ annotated biomedical sentences
-- Achieved >87% F1-score for automated disease entity extraction
-- Deployed scalable pipeline for clinical document processing
-
-**Tech Stack**: PyTorch, Transformers, BioBERT, NLP, Biomedical Text Mining
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananaya-J&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananaya-J&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 📈 Research Impact
-
-- **Publications**: 3 research papers (Medical Hypotheses - Elsevier, NeurIPS 2025 under review, Springer Handbook)
-- **Simulations**: 500+ protein-ligand complexes validated through MD simulations
-- **Datasets**: Created comprehensive databases with 1.9M+ small molecules and 250K+ protein structures
-- **Virtual Screening**: Processed 200,000+ compounds for cancer therapeutics discovery
-
-## 🎯 Research Interests
-
-- **Drug Discovery & Design**: Targeting "undruggable" proteins and novel therapeutic pathways
-- **Protein-Ligand Interactions**: Advanced MD simulations and binding affinity prediction
-- **Genomics & Precision Medicine**: Variant analysis and pharmacogenomics applications
-- **AI in Biology**: Machine learning for biological discovery and drug development
-- **Structural Bioinformatics**: Protein structure prediction and validation
-
-## 🏅 Achievements & Recognition
-
-- **FOSSEE Summer Fellowship** - IIT Bombay (Competitive selection)
-- **Oral & Poster Presentations** - Biophysika 2024, Jamia Millia Islamia
-- **IELTS Score**: 7.5 Overall Band
-- **Academic Excellence**: 8.77/10 CGPA in B.Sc. (Research) Biotechnology
-
-## 📫 Let's Connect!
-
-- 💼 **LinkedIn**: [Ananaya Jain](https://www.linkedin.com/in/ananaya-jain)
-- 📧 **Email**: ananayajain2024@gmail.com
-- 🌐 **GitHub**: You're already here! Feel free to explore my repositories
-- 📱 **Phone**: (+91) 9560307032
-
-## 💡 Fun Facts
-
-- 🔬 I've simulated over 1.1 μs of molecular dynamics trajectories
-- 🧬 Processed genomic data from 3,000+ samples for disease research
-- 🤖 Built AI models that can predict drug-target interactions
-- 📊 Created knowledge graphs integrating multi-omics biological data
-- 🌱 Currently working on plant genomics and agricultural biotechnology
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananaya-jain)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ananayajain2024@gmail.com)
 
 ---
 
-*"Bridging the gap between computational innovation and biological discovery, one algorithm at a time."*
+## The Intersection of Biology and Code
 
-⭐ **If you find my work interesting, don't forget to star the repositories!** ⭐
+I exist at the fascinating crossroads where molecular biology meets artificial intelligence, where protein folding patterns become machine learning features, and where genomic variants tell stories of human evolution and disease. My work revolves around a simple yet profound belief: **every biological system is a computational problem waiting to be solved**.
+
+## My Philosophical Approach
+
+Biology is fundamentally information processing at the molecular level. DNA serves as storage, RNA as messaging, and proteins as the executive processors. I approach biological research as a systems engineer would approach a complex distributed computing network—seeking to understand the architecture, optimize the processes, and predict system failures before they occur.
+
+**What drives my research:**
+- The conviction that "undruggable" proteins are simply targets we haven't learned to speak to yet
+- The belief that precision medicine should be as personalized as a fingerprint
+- The understanding that molecular dynamics simulations are windows into biological reality
+- The vision that AI can accelerate drug discovery from decades to years
+
+## The Art of Molecular Engineering
+
+I see molecular docking not just as computational chemistry, but as molecular architecture—designing keys for locks we're still learning to understand. Each protein-ligand interaction I simulate represents a potential therapeutic conversation between human biology and pharmaceutical intervention.
+
+My work with knowledge graphs transforms chaotic biological data into structured narratives. I build digital ecosystems where genes, proteins, metabolites, and phenotypes can communicate across traditional research silos. These aren't just databases; they're biological social networks revealing hidden connections and emergent properties.
+
+## Computational Philosophy
+
+**High-Performance Computing as Biological Time Travel:**  
+Using ADA supercomputing infrastructure and AWS cloud platforms, I can simulate microseconds of protein motion that would take months to observe experimentally. This isn't just computation—it's temporal archaeology, uncovering the dynamic stories hidden within static crystal structures.
+
+**Machine Learning as Pattern Recognition in Life:**  
+Every algorithm I develop is an attempt to teach computers to recognize the patterns that evolution has been writing for billions of years. Whether predicting drug-target interactions or identifying disease-causing mutations, I'm essentially training artificial neural networks to think like biological neural networks.
+
+## The Interdisciplinary Mind
+
+My background spans the spectrum from wet-lab molecular biology to cloud computing infrastructure. I've pipetted DNA and configured AWS instances, cultured cells and trained transformer models, analyzed microscopy images and debugged Python scripts. This duality allows me to bridge the communication gap between bench scientists and data scientists.
+
+I believe the future of biological research lies not in choosing between computational and experimental approaches, but in creating seamless workflows where each informs and enhances the other.
+
+## Research Aesthetic
+
+**Precision Medicine as Personalized Computation:**  
+Every individual's genome is a unique algorithm. My pharmacogenomics work treats drug response prediction as personalized software optimization—finding the right therapeutic parameters for each individual's biological operating system.
+
+**Structural Biology as Molecular Cinema:**  
+Protein structures aren't static sculptures; they're dynamic performances. Through molecular dynamics simulations, I direct molecular movies, watching how proteins breathe, flex, and dance with their ligand partners across time scales invisible to traditional experimental methods.
+
+**Genomics as Evolutionary Debugging:**  
+Disease-causing mutations are essentially bugs in the human genetic code. My variant analysis work involves debugging these biological programs, understanding how single nucleotide changes can crash entire physiological systems.
+
+## The Future I'm Building
+
+I envision a world where:
+- Drug discovery is accelerated through AI-human collaboration, not AI replacement
+- Precision medicine is democratized through open-source computational tools
+- Biological knowledge graphs connect insights across species, scales, and research domains
+- Virtual patients guide therapeutic decisions before real patients face risks
+
+## Technical Meditation
+
+Programming, for me, is a form of scientific meditation. Whether I'm writing Python scripts to analyze genomic variants or developing React applications for data visualization, coding becomes a dialogue with biological complexity. Each function I write is an attempt to capture and manipulate the elegant algorithms that life has already perfected.
+
+The beauty of bioinformatics lies in its multilingual nature—we speak Python to wrangle data, R to perform statistics, SQL to query relationships, and Bash to orchestrate workflows. But underneath all these languages, we're really learning to speak biology's native tongue: the language of molecular interactions, evolutionary pressures, and emergent complexity.
+
+## Personal Research Manifesto
+
+I believe that the most profound scientific discoveries happen at interfaces—between disciplines, between scales, between the digital and biological worlds. My research exists in these liminal spaces, translating molecular language into computational insights and back again.
+
+Every protein I dock, every genome I analyze, every model I train is part of a larger project: teaching computers to understand life, and using that understanding to improve human health. This isn't just career ambition; it's a calling to participate in one of humanity's greatest endeavors—understanding ourselves at the molecular level.
+
+---
+
+**Current Focus:** Building the computational infrastructure for the next generation of biological discovery, where artificial intelligence and human intuition collaborate to decode the fundamental algorithms of life.
+
+**Location:** India | **Status:** Open to collaborative research opportunities worldwide
+
+---
+
+*"In the end, we are all just atoms trying to understand atoms, using patterns to decode patterns, writing code to crack the ultimate code—life itself."*
